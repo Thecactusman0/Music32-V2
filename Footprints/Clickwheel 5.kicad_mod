@@ -1,0 +1,59 @@
+(footprint "Clickwheel 5" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at -0.02 -21.52 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 31b51f64-5f05-4355-a98b-d25c8b308a2f)
+  )
+  (fp_text value "Clickwheel 5" (at 0.04 -19.91 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ac57d598-3072-42f8-8060-7cbeb9a3e02e)
+  )
+  (fp_poly
+    (pts
+      (arc (start -12.867205 -13.303989) (mid -18.413843 -3.585628) (end -17.1227 7.529438))
+      (arc (start -7.599645 0.663222) (mid -6.734685 -3.570066) (end -3.69207 -6.637863))
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp fee81b5f-346f-4b4b-a9f7-c8dca1da6ee7))
+  (fp_poly
+    (pts
+      (arc (start 1.869716 18.61138) (mid -9.100325 16.404586) (end -16.62903 8.126281))
+      (arc (start -7.453895 1.460155) (mid -5.476466 5.301855) (end -1.717658 7.432638))
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp 6b99f74b-2075-4acf-9fca-b80e9743896a))
+  (fp_poly
+    (pts
+      (arc (start 2.589899 18.326306) (mid 12.789532 13.724219) (end 18.278247 3.973028))
+      (arc (start 6.538074 3.930402) (mid 3.350042 6.846793) (end -0.914691 7.540289))
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp b4c81fe2-6b89-4513-ae19-1673433a9af7))
+  (fp_poly
+    (pts
+      (arc (start 6.888586 3.2) (mid 7.546907 -1.070304) (end 5.75841 -5.003517))
+      (arc (start 9.426863 -16.155914) (mid 17.004691 -7.922551) (end 18.229676 3.2))
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp 2a73dae3-5524-4a79-be7e-dff7b1c7f095))
+  (fp_poly
+    (pts
+      (arc (start -12.452127 -13.957931) (mid -2.280056 -18.620625) (end 8.67666 -16.348598))
+      (xy 5.172071 -5.56258)
+      (arc (start 5.17207 -5.562579) (mid 1.314202 -7.508276) (end -2.979181 -7.022744))
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp 80629e83-268f-4af1-9b0c-ba8d5a87eba4))
+  (pad "" np_thru_hole circle (at 0 0) (size 14.5 14.5) (drill 14.5) (layers "F&B.Cu" "*.Mask") (tstamp 5755c62c-82d2-46e9-b551-3690e74ca333))
+  (pad "1" smd roundrect (at -0.24 -17.46) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (thermal_bridge_angle 45) (tstamp 624cdb48-21cd-4699-9326-668349d07a81))
+  (pad "2" smd roundrect (at 15.62 -6.79) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (thermal_bridge_angle 45) (tstamp 76828ccb-9836-4c86-ad1a-43e13bd3e52c))
+  (pad "3" smd roundrect (at 10.68 13.35) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (thermal_bridge_angle 45) (tstamp 74e8a77f-2768-4e61-b5b8-0f92d7c45742))
+  (pad "4" smd roundrect (at -9.06 14.5) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (thermal_bridge_angle 45) (tstamp f162373e-ebf5-4b10-ae3f-dce9c4e11055))
+  (pad "5" smd roundrect (at -16.69 -3.7) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (thermal_bridge_angle 45) (tstamp 9f70b474-3f3c-441c-9c8c-2e95ffbc35a4))
+)

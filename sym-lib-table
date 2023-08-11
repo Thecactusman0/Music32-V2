@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sk-3393m-g1")(type "KiCad")(uri "${KIPRJMOD}/Symbols/sk-3393m-g1.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-S3-WROOM-1-N4R2")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ESP32-S3-WROOM-1-N4R2.kicad_sym")(options "")(descr ""))
+  (lib (name "LCD")(type "KiCad")(uri "${KIPRJMOD}/Symbols/lcd_st7889.kicad_sym")(options "")(descr ""))
+  (lib (name "Lgs4056")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LGS4056H.kicad_sym")(options "")(descr ""))
+  (lib (name "Pcf85063")(type "KiCad")(uri "${KIPRJMOD}/Symbols/pcf85063tp.kicad_sym")(options "")(descr ""))
+)
