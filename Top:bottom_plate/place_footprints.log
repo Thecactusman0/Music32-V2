@@ -1,0 +1,13 @@
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 405:Plugin executed on: 'darwin'
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 406:Plugin executed with python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 407:KiCad build version: 7.0.2-0
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 408:Plugin version: 2.0.3
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 409:Frame repr: <wx._core.Frame object at 0x113bcf4c0>
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint G*** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint mouse-bite-3mm-slot does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint mouse-bite-3mm-slot does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-12 16:42:18 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint mouse-bite-3mm-slot does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout

@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/Footprints")(options "")(descr ""))
+  (lib (name "Panel")(type "KiCad")(uri "${KIPRJMOD}/Panelization.pretty-3839b22ce1f193f576d41dd2671ccb90c2013311")(options "")(descr ""))
 )
