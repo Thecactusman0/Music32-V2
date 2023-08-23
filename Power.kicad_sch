@@ -1594,11 +1594,17 @@
   (junction (at 118.11 78.74) (diameter 0) (color 0 0 0 0)
     (uuid 03f17cab-13f1-433e-a4c3-02ac0b36ebb7)
   )
+  (junction (at 157.48 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 09b0a1bf-1e5f-4d2e-b4d3-43fa09407ace)
+  )
   (junction (at 130.81 78.74) (diameter 0) (color 0 0 0 0)
     (uuid 0ebcba79-6721-4f30-a092-96bb19a3eb03)
   )
   (junction (at 35.56 38.1) (diameter 0) (color 0 0 0 0)
     (uuid 0face9ec-e3c2-4326-ac53-15198b8ff3ab)
+  )
+  (junction (at 110.49 45.72) (diameter 0) (color 0 0 0 0)
+    (uuid 268cf772-0b54-48c1-a629-b413477583f9)
   )
   (junction (at 104.14 45.72) (diameter 0) (color 0 0 0 0)
     (uuid 294b4a92-3a2e-49ec-afdb-4a0e8b795388)
@@ -1611,9 +1617,6 @@
   )
   (junction (at 71.12 170.18) (diameter 0) (color 0 0 0 0)
     (uuid 2efe95fd-8331-4c9b-8cc8-b1746c789c9e)
-  )
-  (junction (at 157.48 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid 381546f1-d21d-4971-b301-f025857dcbd9)
   )
   (junction (at 254 104.14) (diameter 0) (color 0 0 0 0)
     (uuid 495d069f-0ae5-46df-9e7d-5f9480099c70)
@@ -1629,6 +1632,9 @@
   )
   (junction (at 57.15 46.99) (diameter 0) (color 0 0 0 0)
     (uuid 66879bd6-9a42-4126-871d-7811861ab041)
+  )
+  (junction (at 116.84 38.1) (diameter 0) (color 0 0 0 0)
+    (uuid 6f677960-907c-4b1c-a6b2-00bd56f992db)
   )
   (junction (at 53.34 93.98) (diameter 0) (color 0 0 0 0)
     (uuid 73143c98-a707-4bdf-a47c-86cafa283d77)
@@ -1651,14 +1657,8 @@
   (junction (at 71.12 158.75) (diameter 0) (color 0 0 0 0)
     (uuid 9d8d7f73-a37e-4483-b336-9198b56e3f0b)
   )
-  (junction (at 163.83 45.72) (diameter 0) (color 0 0 0 0)
-    (uuid a2286dbd-c68f-4e21-8e70-4393547e2b2e)
-  )
   (junction (at 91.44 140.97) (diameter 0) (color 0 0 0 0)
     (uuid a4978ef5-61f5-4942-a9ff-737b61ed7ae4)
-  )
-  (junction (at 116.84 38.1) (diameter 0) (color 0 0 0 0)
-    (uuid a8698d9a-fa25-4383-859c-f229056ebd79)
   )
   (junction (at 143.51 104.14) (diameter 0) (color 0 0 0 0)
     (uuid b35f8696-fc6c-4732-b252-0d0a5cbdb287)
@@ -1668,9 +1668,6 @@
   )
   (junction (at 170.18 45.72) (diameter 0) (color 0 0 0 0)
     (uuid bac3b49e-5bd2-4edd-a5ce-f923e06dc756)
-  )
-  (junction (at 110.49 45.72) (diameter 0) (color 0 0 0 0)
-    (uuid be2edbe7-7d65-41e4-9c2d-fa60a9b6361c)
   )
   (junction (at 64.77 38.1) (diameter 0) (color 0 0 0 0)
     (uuid c10b5291-94e1-49e3-a6e3-0da09dc0b230)
@@ -1714,6 +1711,9 @@
   (junction (at 50.8 156.21) (diameter 0) (color 0 0 0 0)
     (uuid f81463ed-b846-4ef3-acc6-29877afd650a)
   )
+  (junction (at 163.83 45.72) (diameter 0) (color 0 0 0 0)
+    (uuid f86ae23e-7166-4d8f-ab2b-321bcdefaddb)
+  )
 
   (no_connect (at 231.14 39.37) (uuid 146ef3eb-7dc1-45c8-852f-23976edeb07a))
   (no_connect (at 50.8 171.45) (uuid a2c017ab-0c11-495c-953d-0350bb8236bf))
@@ -1754,10 +1754,6 @@
   (wire (pts (xy 190.5 97.79) (xy 190.5 99.06))
     (stroke (width 0) (type default))
     (uuid 1af9e241-624a-4954-857a-181ebb07f8e4)
-  )
-  (wire (pts (xy 110.49 45.72) (xy 116.84 45.72))
-    (stroke (width 0) (type default))
-    (uuid 1d75b234-31da-4032-a6b1-d6cc270332d1)
   )
   (wire (pts (xy 44.45 46.99) (xy 57.15 46.99))
     (stroke (width 0) (type default))
@@ -1831,10 +1827,6 @@
     (stroke (width 0) (type default))
     (uuid 455f7557-b92a-4fda-8428-b0621e777a1e)
   )
-  (wire (pts (xy 154.94 38.1) (xy 157.48 38.1))
-    (stroke (width 0) (type default))
-    (uuid 45f3aae0-0ded-4906-a830-9312830a3af8)
-  )
   (wire (pts (xy 74.93 156.21) (xy 74.93 162.56))
     (stroke (width 0) (type default))
     (uuid 46417fc8-f82f-4e05-834a-3c165a940468)
@@ -1895,6 +1887,10 @@
     (stroke (width 0) (type default))
     (uuid 64ffab2d-3551-4068-bfa4-f8aa7187d969)
   )
+  (wire (pts (xy 157.48 45.72) (xy 163.83 45.72))
+    (stroke (width 0) (type default))
+    (uuid 6680b560-b814-448a-9cfe-3979f337d522)
+  )
   (wire (pts (xy 247.65 41.91) (xy 247.65 39.37))
     (stroke (width 0) (type default))
     (uuid 67be68a5-6908-414f-a27a-2d47b0d11e98)
@@ -1931,7 +1927,7 @@
     (stroke (width 0) (type default))
     (uuid 831592f5-052d-4cfe-bb7f-a00a838ae6ee)
   )
-  (wire (pts (xy 157.48 38.1) (xy 163.83 38.1))
+  (wire (pts (xy 154.94 38.1) (xy 157.48 38.1))
     (stroke (width 0) (type default))
     (uuid 88a49f08-b1db-4b49-bc81-f38f8235a859)
   )
@@ -1942,10 +1938,6 @@
   (wire (pts (xy 74.93 156.21) (xy 95.25 156.21))
     (stroke (width 0) (type default))
     (uuid 8cd62154-b66f-4add-af11-45bfe6f38d6d)
-  )
-  (wire (pts (xy 116.84 38.1) (xy 129.54 38.1))
-    (stroke (width 0) (type default))
-    (uuid 930ec2e8-d3d5-4024-9155-03ed4592edba)
   )
   (wire (pts (xy 50.8 146.05) (xy 68.58 146.05))
     (stroke (width 0) (type default))
@@ -1958,10 +1950,6 @@
   (wire (pts (xy 44.45 38.1) (xy 44.45 39.37))
     (stroke (width 0) (type default))
     (uuid 995028e7-c5ea-44df-90f7-55763476ed44)
-  )
-  (wire (pts (xy 157.48 45.72) (xy 163.83 45.72))
-    (stroke (width 0) (type default))
-    (uuid a1034d38-822a-48c2-b3f1-372211a20053)
   )
   (wire (pts (xy 64.77 38.1) (xy 64.77 39.37))
     (stroke (width 0) (type default))
@@ -2026,6 +2014,10 @@
   (wire (pts (xy 58.42 140.97) (xy 50.8 140.97))
     (stroke (width 0) (type default))
     (uuid be6f6bda-781b-4dd3-97f4-b5880b5f4109)
+  )
+  (wire (pts (xy 116.84 38.1) (xy 129.54 38.1))
+    (stroke (width 0) (type default))
+    (uuid c07c97ed-6de5-4ea9-8c0f-6f2e87e2f061)
   )
   (wire (pts (xy 118.11 99.06) (xy 118.11 93.98))
     (stroke (width 0) (type default))
@@ -2099,6 +2091,10 @@
     (stroke (width 0) (type default))
     (uuid e08b8020-fdd8-4372-9ba0-40b4a6c65965)
   )
+  (wire (pts (xy 110.49 45.72) (xy 116.84 45.72))
+    (stroke (width 0) (type default))
+    (uuid e2cddfc4-9130-4e3f-9e83-216d6880ebfb)
+  )
   (wire (pts (xy 104.14 78.74) (xy 107.95 78.74))
     (stroke (width 0) (type default))
     (uuid e5da9fdd-d8cc-47e7-9356-ba4421d1b53f)
@@ -2122,6 +2118,10 @@
   (wire (pts (xy 130.81 99.06) (xy 118.11 99.06))
     (stroke (width 0) (type default))
     (uuid efa39395-4a16-43e7-adbe-628227018aff)
+  )
+  (wire (pts (xy 157.48 38.1) (xy 163.83 38.1))
+    (stroke (width 0) (type default))
+    (uuid f167af5a-77c2-461b-8b9f-6a1443799b8e)
   )
   (wire (pts (xy 71.12 170.18) (xy 74.93 170.18))
     (stroke (width 0) (type default))
@@ -3665,15 +3665,19 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 5701ad5c-61fd-4ca3-9c8c-42296d070f1f)
   )
-  (text "10uF\n" (at 207.01 128.27 0)
+  (text "10uF\n" (at 203.2 127 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 594b10e1-3dcb-4040-8b7a-27db3ff3d70f)
   )
-  (text "1uF\n" (at 243.84 128.27 0)
+  (text "1uF\n" (at 243.84 124.46 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6424a7a5-72d2-4450-a3fc-8dbf3944e0f3)
   )
-  (text "10uF\nGRT188R60J106ME13\n1uF\nGRM155R61E105KA12D\n" (at 101.6 29.21 0)
+  (text "GRM155R61E105KA12\n\n" (at 234.95 129.54 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 793db414-121f-4fc8-9cbb-8cf7299241c9)
+  )
+  (text "GRT188R60J106ME13\n\n" (at 195.58 132.08 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7d2e1e7a-0f90-4592-861d-eef5207ff7e9)
   )
@@ -4955,6 +4959,55 @@
     )
   )
 
+  (symbol (lib_id "Device:C") (at 116.84 41.91 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 5c175f75-5a6c-4fe1-9809-1a97ffb10141)
+    (property "Reference" "C32" (at 115.57 31.75 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "10uF" (at 115.57 34.29 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 117.8052 45.72 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 116.84 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f6387816-9267-4fd4-ae85-758698b7f502))
+    (pin "2" (uuid 177ac861-b3e9-4503-b1f2-a1645298d33c))
+    (instances
+      (project "Power"
+        (path "/1288f273-4ee1-44e8-a86c-2adc0358dc71"
+          (reference "C32") (unit 1)
+        )
+      )
+      (project "Music_32_V2"
+        (path "/14681cc8-ddd4-43ff-b571-daca84d76d6b/4963a591-4c7d-4c5c-bcea-2e6cea395856"
+          (reference "C33") (unit 1)
+        )
+      )
+      (project "Phone"
+        (path "/9a44bf40-ccf4-4ff9-bb89-c8bc2c0cf19f/08dec41e-a7ac-46dd-ad42-4ddeee026110/46f942c4-bdd7-445d-bd75-6b4493769f4c"
+          (reference "C?") (unit 1)
+        )
+      )
+      (project "Ipod"
+        (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002"
+          (reference "C?") (unit 1)
+        )
+        (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002/683020cc-3f85-458f-8fb0-f668196e1562"
+          (reference "C30") (unit 1)
+        )
+      )
+      (project "power"
+        (path "/c90b3fe4-1e97-415b-a0f6-be34dcca7903"
+          (reference "C?") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Regulator_Linear:SSP61C") (at 201.93 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5e2b4700-7f84-4a9c-afee-4fb83a200b0e)
@@ -5606,8 +5659,8 @@
     (property "Datasheet" "~" (at 91.44 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7d2a2a23-da98-4445-92bb-06eaec9197d2))
-    (pin "2" (uuid b1a630e8-b408-4ce1-852e-c9a5a901fd78))
+    (pin "1" (uuid 0f3a832b-ed7c-449a-a976-c785bd6a5d7a))
+    (pin "2" (uuid 7efdc123-640b-4d55-a593-b53c4f81e1fc))
     (instances
       (project "Power"
         (path "/1288f273-4ee1-44e8-a86c-2adc0358dc71"
@@ -5637,6 +5690,55 @@
       (project "Ipod"
         (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002/683020cc-3f85-458f-8fb0-f668196e1562"
           (reference "C28") (unit 1)
+        )
+      )
+      (project "power"
+        (path "/c90b3fe4-1e97-415b-a0f6-be34dcca7903"
+          (reference "C?") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C") (at 157.48 41.91 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 8c675c0c-0d95-4cd8-9f03-0ddebb1b2a11)
+    (property "Reference" "C35" (at 156.21 31.75 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "10uF" (at 156.21 34.29 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 158.4452 45.72 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 157.48 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b65def10-84b4-4979-9af4-067bd6946e3f))
+    (pin "2" (uuid 26aab98f-ac42-474b-b22e-aa408b95bf15))
+    (instances
+      (project "Power"
+        (path "/1288f273-4ee1-44e8-a86c-2adc0358dc71"
+          (reference "C35") (unit 1)
+        )
+      )
+      (project "Music_32_V2"
+        (path "/14681cc8-ddd4-43ff-b571-daca84d76d6b/4963a591-4c7d-4c5c-bcea-2e6cea395856"
+          (reference "C36") (unit 1)
+        )
+      )
+      (project "Phone"
+        (path "/9a44bf40-ccf4-4ff9-bb89-c8bc2c0cf19f/08dec41e-a7ac-46dd-ad42-4ddeee026110/46f942c4-bdd7-445d-bd75-6b4493769f4c"
+          (reference "C?") (unit 1)
+        )
+      )
+      (project "Ipod"
+        (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002"
+          (reference "C?") (unit 1)
+        )
+        (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002/683020cc-3f85-458f-8fb0-f668196e1562"
+          (reference "C29") (unit 1)
         )
       )
       (project "power"
@@ -5701,8 +5803,8 @@
     (property "Datasheet" "~" (at 264.16 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5694d368-42b5-4645-8121-0c4dc3fb4a0e))
-    (pin "2" (uuid 23391a78-bf78-4bce-bd18-918739ff7400))
+    (pin "1" (uuid 7e0d42ee-56b6-4612-be0b-d79e8c69f9d7))
+    (pin "2" (uuid 73764788-2b58-43ab-b7c1-4bdfc103ad84))
     (instances
       (project "Power"
         (path "/1288f273-4ee1-44e8-a86c-2adc0358dc71"
@@ -5984,8 +6086,8 @@
     (property "Datasheet" "~" (at 241.3 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5068eb06-7982-44b9-a57c-fd2d324f3fa2))
-    (pin "2" (uuid 0f55fdfd-2a7c-4e96-89f7-4ca09fa03f9f))
+    (pin "1" (uuid 2885e34a-7195-4171-ac72-1a6d80cef04e))
+    (pin "2" (uuid 3950be93-5ad7-4012-b108-2dac7d18661c))
     (instances
       (project "Power"
         (path "/1288f273-4ee1-44e8-a86c-2adc0358dc71"
@@ -6056,55 +6158,6 @@
       (project "Ipod"
         (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002/683020cc-3f85-458f-8fb0-f668196e1562"
           (reference "#PWR046") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C") (at 157.48 41.91 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid b1fe20e3-2980-451b-a8de-c65e88abf879)
-    (property "Reference" "C36" (at 157.48 31.75 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "1uF" (at 157.48 34.29 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 158.4452 45.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 157.48 41.91 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c34d3b58-69cd-48d8-b5b6-46dd930d254f))
-    (pin "2" (uuid 352d6f36-25fe-4c73-aa9f-d2b3acdf858d))
-    (instances
-      (project "Power"
-        (path "/1288f273-4ee1-44e8-a86c-2adc0358dc71"
-          (reference "C36") (unit 1)
-        )
-      )
-      (project "Music_32_V2"
-        (path "/14681cc8-ddd4-43ff-b571-daca84d76d6b/4963a591-4c7d-4c5c-bcea-2e6cea395856"
-          (reference "C36") (unit 1)
-        )
-      )
-      (project "Phone"
-        (path "/9a44bf40-ccf4-4ff9-bb89-c8bc2c0cf19f/08dec41e-a7ac-46dd-ad42-4ddeee026110/46f942c4-bdd7-445d-bd75-6b4493769f4c"
-          (reference "C?") (unit 1)
-        )
-      )
-      (project "Ipod"
-        (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002"
-          (reference "C?") (unit 1)
-        )
-        (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002/683020cc-3f85-458f-8fb0-f668196e1562"
-          (reference "C45") (unit 1)
-        )
-      )
-      (project "power"
-        (path "/c90b3fe4-1e97-415b-a0f6-be34dcca7903"
-          (reference "C?") (unit 1)
         )
       )
     )
@@ -6205,55 +6258,6 @@
         )
         (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002/683020cc-3f85-458f-8fb0-f668196e1562"
           (reference "C40") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C") (at 116.84 41.91 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid b7442842-72e5-41f6-ae3f-4f79ed67c91a)
-    (property "Reference" "C33" (at 115.57 31.75 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "1uF" (at 115.57 34.29 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 117.8052 45.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 116.84 41.91 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 1e65900a-c35f-41a5-b26e-a9508fc734fa))
-    (pin "2" (uuid c162d8b4-9723-4cd9-9aa5-52218902985a))
-    (instances
-      (project "Power"
-        (path "/1288f273-4ee1-44e8-a86c-2adc0358dc71"
-          (reference "C33") (unit 1)
-        )
-      )
-      (project "Music_32_V2"
-        (path "/14681cc8-ddd4-43ff-b571-daca84d76d6b/4963a591-4c7d-4c5c-bcea-2e6cea395856"
-          (reference "C33") (unit 1)
-        )
-      )
-      (project "Phone"
-        (path "/9a44bf40-ccf4-4ff9-bb89-c8bc2c0cf19f/08dec41e-a7ac-46dd-ad42-4ddeee026110/46f942c4-bdd7-445d-bd75-6b4493769f4c"
-          (reference "C?") (unit 1)
-        )
-      )
-      (project "Ipod"
-        (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002"
-          (reference "C?") (unit 1)
-        )
-        (path "/c4cf9ad0-abea-4c32-bb0b-367e5261d002/683020cc-3f85-458f-8fb0-f668196e1562"
-          (reference "C44") (unit 1)
-        )
-      )
-      (project "power"
-        (path "/c90b3fe4-1e97-415b-a0f6-be34dcca7903"
-          (reference "C?") (unit 1)
         )
       )
     )
